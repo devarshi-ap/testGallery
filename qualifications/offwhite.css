@@ -1,0 +1,45 @@
+body {
+    background-color: #ebf4ec;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    transform: translateY(20%);
+}
+
+.badge{
+    width: 20%;
+    height: auto;
+}
+
+.square {
+    float:left;
+    position: relative;
+    width: 20%;
+    padding-bottom : 20%; /* = width for a 1:1 aspect ratio */
+    margin:1.66%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
+
+.img_1-1{background-image:url("https://i.imgur.com/0GUrHqs.gif");}
+.img_1-2{background-image:url("https://i.imgur.com/xqMtENa.gif");}
+.img_1-3{background-image:url("https://i.imgur.com/TIBeRGi.gif");}
+.img_1-4{background-image:url("https://i.imgur.com/uEC5Rxk.gif");}
+
+.img_2-1{background-image:url("https://i.imgur.com/whT7FQt.gif");}
+.img_2-2{background-image:url("https://i.imgur.com/0KYtxcK.gif");}
+.img_2-3{background-image:url("https://i.imgur.com/WjI2C5c.gif");}
+.img_2-4{background-image:url("https://i.imgur.com/SMDcJAG.gif");}
+
+.img_3-1{background-image:url("https://i.imgur.com/cJOmJS8.gif");}
+.img_3-2{background-image:url("https://i.imgur.com/bkFQtEX.gif");}
+.img_3-3{background-image:url("https://i.imgur.com/3pybZBG.gif");}
+.img_3-4{background-image:url("https://i.imgur.com/HLacmaa.gif");}
+
+
+

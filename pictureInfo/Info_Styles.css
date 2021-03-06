@@ -1,0 +1,132 @@
+body {
+    background-color: #f3f3f3;
+    max-width: 1650px;
+}
+
+.title {
+    font-family: Perpetua;
+    color: #5d645f;
+    font-size: 60px;
+    transform: translate(8%, 20%);
+    position: relative;
+}
+
+.subtitle {
+    transform: translate(0%, -80%);
+    position: relative;
+}
+
+.photo {
+    width: 35%;
+    max-width:40%
+    height: auto;
+    position: relative;
+    float: right:
+    display: flex;
+    transform: translate(40%,00%);
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 10px;
+}
+
+.content {
+    width: 600px;
+    max-width: 540px;
+    font-size: 22px;
+    font-family: courier;
+    letter-spacing: 2.5px;
+    line-height: 1.45em;
+    text-align: justify;
+    padding: 1.2vw;
+    font-size: 1.2vw;
+    margin-left:auto;
+    margin-right:auto;
+    float: right;
+    display: flex;
+}
+
+
+/*Andromeda*/
+#andromeda_content { font-size: 0.9vw; }
+#andromeda_img {
+    width: 50%;
+    height: auto;
+    transform: translate(20%, 10%);
+}
+
+
+/*Buddha*/
+#buddha_content { font-size: 0.9vw; }
+
+
+/*Central Park*/
+#central_park_content { font-size: 1.2vw; }
+#central_park_img {
+    width: 45%;
+    height: auto;
+    transform: translate(20%, 5%);
+}
+
+
+/*Christ The Redeemer*/
+#christ_content { font-size: 0.9vw; }
+
+
+/*Dyrholaey*/
+#dyrholaey_content { font-size: 1.1vw; }
+#dyrholaey_img {
+    width: 50%;
+    transform: translate(20%, 0%)
+}
+
+
+/*Golden Gate Bridge*/
+#golden_gate_content { font-size: 1.1vw; }
+
+
+/*Jean-Michael Basquiat*/
+#jean_content { font-size: 0.87vw; }
+
+
+/*Joseph Lee*/
+#joseph_content { font-size: 1.1vw; }
+
+
+/*Red Mineral Temple*/
+#red_temple_content { font-size: 1.45vw; }
+#red_temple_img {
+    width: 40%;
+    transform: translate(40%, 5%)
+}
+
+
+/*Kerry*/
+#kerry_content { font-size: 1.2vw; }
+#kerry_img { transform: translate(20%, 5%) }
+
+
+/*Lauterbrunnen*/
+#lauterbrunnen_content { font-size: 1.1vw; }
+
+
+/*Osaka*/
+#osaka_content {
+    font-size: 0.9vw;
+    max-width: 1000px;
+    width: 900px;
+}
+#osaka_img {
+    width: 75%;
+    transform: translate(20%, 0%);
+}
+
+
+/*Fuji*/
+#fuji_content { font-size: 0.8vw; }
+
+
+/*Trevi Fountain*/
+#trevi_content { font-size: 1.05vw; }
+#trevi_img { transform: translate(50%, 0%); }
